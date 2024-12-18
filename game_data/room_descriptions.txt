@@ -1,0 +1,80 @@
+*
+1
+This is the starting room. Silent and safe.
+~
+*
+2
+A small room, a Sword lies on the ground.
+~
+*
+3
+A damp room, a swarm of rats (Rat Swarm) hisses.
+~
+*
+4
+A dim room, a Shield hangs on the wall.
+~
+*
+5
+A room filled with old bones. A Skeleton Grunt roams here.
+~
+*
+6
+A narrow corridor, an Amulet gleams on the ground.
+~
+*
+7
+A large room, a Skeleton Knight stands in the center.
+~
+*
+8
+A narrow passage, a Goblin growls menacingly.
+~
+*
+9
+A foul-smelling room, a Zombie stumbles forward.
+~
+*
+10
+A spacious hall, an Orc Grunt keeps watch here.
+~
+*
+11
+A heavily armored Goblin Chief stands here. He looks dangerous.
+~
+*
+12
+An empty room, spider webs hang from the ceiling. Silent.
+~
+*
+13
+A dark corner, a Giant Spider hisses ominously.
+~
+*
+14
+A long corridor, a Greatsword catches your eye at the end.
+~
+*
+15
+A resonant room, a Minotaur grumbles inside.
+~
+*
+16
+A quiet room, a Helm lies on the ground.
+~
+*
+17
+A high-ceilinged room, a Great Shield leans against the wall.
+~
+*
+18
+A damp cave, a Battle Axe gleams in the silence.
+~
+*
+19
+A dark room, the fiery breath of the Dragon can be felt.
+~
+*
+20
+A bright exit room, requiring 3 keys to unlock.
+~

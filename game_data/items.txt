@@ -1,0 +1,27 @@
+Here is the information about the items to be
+loaded into the game. Only lines starting with *
+make sense. Each line has a maximum of 55 characters.
+
+The understanding of the structure is as follows:
+item_id/item_name/health_change/damage_up/shield_up
+
+*/1/CircleKey/0/0/0
+*/2/SquareKey/0/0/0
+*/3/TriangKey/0/0/0
+
+*/4/SmallHerb/20/0/0
+*/5/MinorHerb/10/0/0
+*/6/Dagger/0/5/0
+*/7/WeakShield/0/0/5
+*/8/LeatherArm/0/0/10
+*/9/HealHerb/30/0/0
+*/10/PlateArm/0/0/20
+
+*/11/Sword/0/10/0
+*/12/Shield/0/0/10
+*/13/Amulet/10/0/0
+*/14/Bow/0/15/0
+*/15/Greatsword/0/20/0
+*/16/Helm/0/5/5
+*/17/GreatShld/0/0/20
+*/18/BattleAxe/0/25/0
