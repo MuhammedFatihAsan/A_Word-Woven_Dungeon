@@ -3,7 +3,11 @@ CFLAGS = -Wall -Wextra -g -I./src/include -D'GAME_DATA_PATH="$(CURDIR)/game_data
 SRC_DIR = ./src
 OBJ_DIR = ./obj
 BIN_DIR = .
-BIN = $(BIN_DIR)/A_Word-Woven_Dungeon
+ifdef ComSpec
+    BIN = $(BIN_DIR)/A_Word-Woven_Dungeon.exe  # for Windows için .exe
+else
+    BIN = $(BIN_DIR)/A_Word-Woven_Dungeon      # for Linux/macOS
+endif
 
 SRC = $(wildcard $(SRC_DIR)/*.c)
 OBJ = $(patsubst $(SRC_DIR)/%.c, $(OBJ_DIR)/%.o, $(SRC))
@@ -21,4 +25,4 @@ clean:
 	rm -rf $(OBJ_DIR) $(BIN)
 
 run: $(BIN)
-	./A_Word-Woven_Dungeon
+	./$(BIN)
